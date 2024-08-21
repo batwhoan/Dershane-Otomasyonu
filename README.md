@@ -2,7 +2,9 @@
 JAVA DERSHANE OTOMASYONU
 ---------------------------
 Java dilinde yazılmış bir kütüphane otomasyonu. Temel olarak bulundurduğu fonksiyonlar şu şekilde:
+
 Öğrenci:
+
 EKLE,
 SİL,
 LİSTELE,
